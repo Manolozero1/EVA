@@ -1,0 +1,9 @@
+spacy
+transformers
+pyttsx3
+SpeechRecognition
+requests
+sqlite3
+black
+flake8
+tkinter
